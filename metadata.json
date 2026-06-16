@@ -1,0 +1,6 @@
+{
+  "name": "이선생의 이런 수학 (공통수학1)",
+  "description": "고등학교 공통수학1의 경우의 수와 조합의 원리를 쉽고 재미있게 탐구하는 학습 포털입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
